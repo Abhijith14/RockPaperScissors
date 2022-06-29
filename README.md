@@ -90,9 +90,9 @@ Press `s` in your keyboard to `start the game`. Use rock, paper, scissors gestur
 
 ## ⭐️ Project assistance
 
-If you want to say **thank you** or/and support active development of `Project CVM`:
+If you want to say **thank you** or/and support active development of `RockPaperScissors`:
 
-- Add a [GitHub Star](https://github.com/Abhijith14/Project-CVM.git) to the project.
+- Add a [GitHub Star](https://github.com/Abhijith14/RockPaperScissors) to the project.
 - Write interesting articles about project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or personal blog.
 
 Together, we can make this project **better** every day! 😘
@@ -101,7 +101,7 @@ Together, we can make this project **better** every day! 😘
 
 ### 🛠️ Built With
 
-- [Python 3.8](https://www.python.org/) - Creating Project
+- [Python 3.9](https://www.python.org/) - Creating Project
 
 ### ❤️ Authors
 
@@ -118,4 +118,4 @@ I value keeping my work open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/Project-CVM](https://github.com/Abhijith14/Project-CVM.git). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/RockPaperScissors](https://github.com/Abhijith14/RockPaperScissors). Thanks!
