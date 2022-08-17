@@ -1,5 +1,5 @@
 <p align="center">
-<img src='assets/logo.png' align="center" width=300>
+<img src='readme_assets/logo.png' align="center" width=300>
 </p>
 <h1 align="center">
   <b>Rock Paper Scissors</b>
@@ -76,15 +76,15 @@ python main.py
 
 This will open a window named `RPS Game` as follows:
 
-<img src='assets/demo.png' align="center">
+<img src='readme_assets/demo.png' align="center">
 
 <br>
 
 Press `s` in your keyboard to `start the game`. Use rock, paper, scissors gestures to play with the AI and enjoy.
 
-<img src='assets/ss/1.png' width=500>
-<img src='assets/ss/2.png' width=500>
-<img src='assets/ss/3.png' width=500>
+<img src='readme_assets/ss/1.png' width=500>
+<img src='readme_assets/ss/2.png' width=500>
+<img src='readme_assets/ss/3.png' width=500>
 
 <br>
 
